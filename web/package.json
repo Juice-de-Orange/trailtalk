@@ -27,9 +27,9 @@
   },
   "dependencies": {
     "@astrojs/node": "11.1.9",
-    "@astrojs/react": "7.1.1",
+    "@astrojs/react": "7.1.2",
     "@tailwindcss/vite": "4.3.3",
-    "astro": "7.4.2",
+    "astro": "7.4.4",
     "drizzle-orm": "0.45.4",
     "postgres": "3.4.9",
     "react": "19.3.1",
@@ -39,7 +39,7 @@
   },
   "devDependencies": {
     "@astrojs/check": "0.9.12",
-    "@types/node": "^26.6.5",
+    "@types/node": "^26.6.6",
     "@types/react": "19.3.0",
     "@types/react-dom": "19.3.0",
     "drizzle-kit": "0.31.11",
