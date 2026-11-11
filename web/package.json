@@ -26,25 +26,25 @@
     "build:all": "npm run build:pwa && npm run build"
   },
   "dependencies": {
-    "@astrojs/node": "11.1.9",
-    "@astrojs/react": "7.1.1",
-    "@tailwindcss/vite": "4.3.3",
-    "astro": "7.4.2",
+    "@astrojs/node": "11.1.11",
+    "@astrojs/react": "7.1.4",
+    "@tailwindcss/vite": "4.3.5",
+    "astro": "7.4.7",
     "drizzle-orm": "0.45.4",
     "postgres": "3.4.9",
     "react": "19.3.1",
     "react-dom": "19.3.1",
-    "tailwindcss": "4.3.3",
+    "tailwindcss": "4.3.5",
     "tsx": "4.23.15"
   },
   "devDependencies": {
     "@astrojs/check": "0.9.12",
-    "@types/node": "^26.6.5",
+    "@types/node": "^26.6.6",
     "@types/react": "19.3.0",
     "@types/react-dom": "19.3.0",
     "drizzle-kit": "0.31.11",
     "typescript": "5.7.2",
-    "vitest": "^5.0.5"
+    "vitest": "^5.1.0"
   },
   "overrides": {
     "@esbuild-kit/core-utils": {
